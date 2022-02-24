@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_public_conditions",
+  "info": {
+    "name": "condition",
+    "icon": "arrow-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

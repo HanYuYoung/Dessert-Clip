@@ -1,0 +1,94 @@
+{
+  "kind": "collectionType",
+  "collectionName": "menus",
+  "info": {
+    "name": "menu",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "describe": {
+      "type": "text"
+    },
+    "price": {
+      "type": "integer"
+    },
+    "drink": {
+      "model": "drink",
+      "via": "menus"
+    },
+    "zero_calorie": {
+      "type": "boolean",
+      "default": false
+    },
+    "need_tableware": {
+      "type": "component",
+      "repeatable": true,
+      "component": "public.need-tableware"
+    },
+    "condition": {
+      "type": "component",
+      "repeatable": true,
+      "component": "public.condition"
+    },
+    "sweet": {
+      "type": "component",
+      "repeatable": true,
+      "component": "public.sweet"
+    },
+    "flavor": {
+      "type": "component",
+      "repeatable": true,
+      "component": "public.flavor"
+    },
+    "practice": {
+      "type": "component",
+      "repeatable": true,
+      "component": "public.practice"
+    },
+    "tea_base": {
+      "type": "component",
+      "repeatable": true,
+      "component": "tea.tea-base"
+    },
+    "tea_top": {
+      "type": "component",
+      "repeatable": true,
+      "component": "tea.tea-top"
+    },
+    "container": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sweet.container"
+    },
+    "imager": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "imagec": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    }
+  }
+}

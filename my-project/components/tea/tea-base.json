@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_tea_tea_bases",
+  "info": {
+    "name": "tea_base",
+    "icon": "arrow-alt-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

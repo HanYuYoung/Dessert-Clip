@@ -1,0 +1,59 @@
+{
+  "kind": "collectionType",
+  "collectionName": "orders",
+  "info": {
+    "name": "order"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "menu_id": {
+      "type": "integer"
+    },
+    "menu_name": {
+      "type": "string"
+    },
+    "price": {
+      "type": "integer"
+    },
+    "quantity": {
+      "type": "integer"
+    },
+    "imgUrl": {
+      "type": "string"
+    },
+    "status": {
+      "type": "integer"
+    },
+    "payvender": {
+      "type": "string"
+    },
+    "container_option": {
+      "type": "string"
+    },
+    "flavor_option": {
+      "type": "string"
+    },
+    "need_tableware_option": {
+      "type": "string"
+    },
+    "practice_option": {
+      "type": "string"
+    },
+    "sweet_option": {
+      "type": "string"
+    },
+    "tea_base_option": {
+      "type": "string"
+    },
+    "tea_top_option": {
+      "type": "string"
+    },
+    "condition_option": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_public_sweets",
+  "info": {
+    "name": "sweet",
+    "icon": "arrow-alt-circle-left"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_public_flavors",
+  "info": {
+    "name": "flavor",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

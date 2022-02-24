@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_public_need_tablewares",
+  "info": {
+    "name": "need_tableware",
+    "icon": "archway"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

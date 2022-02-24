@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 52 514" width="52" height="514">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.18.1\n2021-01-21 03:52:11 +0000</metadata>
+  <g id="Canvas_1" fill-opacity="1" fill="none" stroke="none" stroke-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_3">
+        <title>首页</title>
+        <g id="Group_4">
+          <title>green_slider</title>
+          <g id="Graphic_5">
+            <title>green_slide</title>
+            <path d="M -5.921875 -344 C -4.1741016 26 1.1592318 233.33333 10.078125 278 C 23.456465 345 55.822676 354.2383 48.07031 394 C 40.31795 433.7617 -5.921875 465.8203 -5.921875 552 C -5.921875 609.4531 -10.447917 609.4531 -19.5 552 L -19.5 -344 Z" fill="#8292bc"/>
+          </g>
+          <g id="Graphic_6">
+            <title>green_slide</title>
+            <path d="M -4.8303257 -343.29577 C -3.0825523 26.704225 2.250781 234.03756 11.169674 278.70423 C 24.548014 345.70423 56.914225 354.9425 49.16186 394.70423 C 41.4095 434.46594 -4.8303257 466.52454 -4.8303257 552.7042 C -4.8303257 610.15735 -9.356367 610.15735 -18.40845 552.7042 L -18.40845 -343.29577 Z" fill="#8292bc"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

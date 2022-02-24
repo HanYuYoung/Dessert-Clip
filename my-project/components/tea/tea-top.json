@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_tea_tea_tops",
+  "info": {
+    "name": "tea_top",
+    "icon": "arrow-alt-circle-up"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

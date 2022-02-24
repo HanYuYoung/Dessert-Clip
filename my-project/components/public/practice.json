@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_public_practices",
+  "info": {
+    "name": "practice",
+    "icon": "arrow-alt-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

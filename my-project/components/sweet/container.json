@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_sweet_containers",
+  "info": {
+    "name": "container",
+    "icon": "apple-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
