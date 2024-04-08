@@ -6,8 +6,9 @@
 
 注:我在Xcode用的simulator是iphone11，如果用pro max或者ipad可能会出现大小布局不适配问题
 
-![图片 1](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/d0aca7fe-9241-4f8a-a7d5-aab13d79a59b) ![图片 2](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/4cf3cbee-2db0-4bba-b6ca-6f7d3c110a85) ![图片 3](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/9bfb5f07-958e-4abf-b401-3781570a936b) <img width="87" alt="图片 4" src="https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/bec37a64-fc59-40f8-8fad-96df02abe344">
-![图片 5](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/cfadbdd7-e1d8-4d96-819b-8b3560c4594d)
+![图片 1](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/d0aca7fe-9241-4f8a-a7d5-aab13d79a59b) ![图片 2](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/4cf3cbee-2db0-4bba-b6ca-6f7d3c110a85) ![图片 3](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/9bfb5f07-958e-4abf-b401-3781570a936b)
+![图片 5](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/cfadbdd7-e1d8-4d96-819b-8b3560c4594d) ![图片 4]("https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/813558f3-28b2-4cbc-8f96-88ebabb8d9f6)
+
 
 
 
