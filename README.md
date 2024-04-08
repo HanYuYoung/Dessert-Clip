@@ -4,4 +4,6 @@
 2.输入yarn develop启动strapi  
 3.可以打开chrmoe调整结构等等,也可以在Xcode进行代码修改  
 
-注:我在Xcode用的simulator是iphone11，如果用pro max或者ipad可能会出现大小布局不适配问题 
+注:我在Xcode用的simulator是iphone11，如果用pro max或者ipad可能会出现大小布局不适配问题
+
+![图片 1](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/d0aca7fe-9241-4f8a-a7d5-aab13d79a59b)
