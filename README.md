@@ -6,4 +6,5 @@
 
 注:我在Xcode用的simulator是iphone11，如果用pro max或者ipad可能会出现大小布局不适配问题
 
-![图片 1](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/d0aca7fe-9241-4f8a-a7d5-aab13d79a59b)
+![图片 1](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/d0aca7fe-9241-4f8a-a7d5-aab13d79a59b) ![图片 2](https://github.com/HanYuYoung/Dessert-Clip/assets/50069094/4cf3cbee-2db0-4bba-b6ca-6f7d3c110a85)
+
